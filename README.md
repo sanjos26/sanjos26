@@ -1,4 +1,4 @@
-## Sanjana Joshi — Computer Vision & Sensor Fusion Engineer
+## Sanjana Joshi — Robotics & Validation Engineer · Sensor Systems · Data Analysis · Python
 
 🤖 Real-Time Perception · Camera Pipelines · ROS 2 · Autonomous Systems  
 📍 Mountain View, CA | NYU M.S. Mechatronics & Robotics 2025  
@@ -13,11 +13,7 @@ Live RGB-D camera pipeline · 3D pose estimation · GPU-accelerated A-RRT* motio
 100% collision avoidance across 50 trials · 6–60s → 0.6–2.0s planning time · ≥275mm clearance  
 `Python` `ROS 2` `CuPy` `MediaPipe` `Orbbec` `PyTorch` `Gazebo`
 
-**[Multi-Agent Task Allocation — ROS 2 / Nav2](#)**  
-Auction-based coordination for 3 TurtleBot3 robots · 50+ simulation trials  
-`ROS 2` `Nav2` `Python` `Gazebo` `TurtleBot3`
 
----
 
 ### Skills
 - **CV & Perception:** MediaPipe, OpenCV, optical flow, visual pose estimation, depth deprojection, YOLOv7/v8
